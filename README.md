@@ -1,4 +1,4 @@
-This is the solution to Leetcode's "Add Two Numbers" MEDIUM difficulty problem.
+This is my solution to Leetcode's "Add Two Numbers" MEDIUM difficulty problem.
 
 https://leetcode.com/problems/add-two-numbers
 
